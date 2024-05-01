@@ -32,7 +32,7 @@ public class ModifierFinance extends JFrame {
     private static ModifierFinance currentInstance;
 
     /**
-     * Launch the application.
+     * Launch
      */
     public static void main(String[] args) {
         EventQueue.invokeLater(new Runnable() {
